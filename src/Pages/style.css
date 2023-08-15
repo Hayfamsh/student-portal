@@ -1,0 +1,31 @@
+body {
+  background-color: #f6f9ff;
+  color: #555454;
+}
+.font-color {
+  color: #555454;
+}
+.top-space {
+  margin-top: 2rem;
+}
+
+.back_color {
+  background-color: "#F6F9FF";
+}
+.text-wh {
+  background-color: transparent;
+}
+
+.red {
+  background-color: red;
+}
+.green {
+  background-color: green;
+}
+
+.yellow {
+  background-color: yellow;
+}
+.full-width {
+  max-width: 100%;
+}
